@@ -35,7 +35,7 @@
 ### `/PATCH` localhost:3000/products
 Параметры запроса:
 `{
-    id: objectId | String
+    _id: objectId | String
 }`
 
 Изменяет продукт в базе данных и возвращает его в запросе
